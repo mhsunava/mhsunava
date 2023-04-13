@@ -7,7 +7,7 @@
 
 > Now that you are reading this text : <br>
 I am studying computer engineering at Imam Khomeini International University in Qazvin.<br>
-So far, I am only fluent in C and Python, but I am improving myself in other programming languages.<br>
+So far, I am only fluent in C, Python and little HTML and Java, but I am improving myself in other programming languages.<br>
 have a nice day.<br>
 (This list will be updated as time changes)
 
